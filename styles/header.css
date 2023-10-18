@@ -53,6 +53,11 @@
     text-transform: uppercase;
 }
 
+.imagem{
+    width: 50px;
+    padding: 10px;
+}
+
 .container__botao {
     display: none;
 }
@@ -68,4 +73,6 @@
      font-weight: 700;
 }   
 }
+
+
     
